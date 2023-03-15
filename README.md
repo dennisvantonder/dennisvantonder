@@ -4,7 +4,7 @@
 - 📫 You can reach me via my linkedIn account: www.linkedin.com/in/dennis-van-tonder-6a4872231
 
 Please feel free to have a look at some of the projects I have done:
-- https://github.com/dennisvantonder/CMPG323-Project-3-31609988
+- https://github.com/dennisvantonder/CMPG-323-Overview-31609988
 - https://github.com/dennisvantonder/CMPG-323-Project-2-31609988
 - https://github.com/dennisvantonder/CMPG323-Project-3-31609988
 - https://github.com/dennisvantonder/CMPG323-Project-4-31609988 
